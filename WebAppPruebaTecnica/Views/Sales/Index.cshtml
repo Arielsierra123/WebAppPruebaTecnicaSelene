@@ -1,0 +1,64 @@
+﻿@model IEnumerable<WebAppPruebaTecnica.Models.SaleViewModel>
+
+@{
+    ViewData["Title"] = "Ventas";
+}
+
+<h1>Ventas</h1>
+
+<p>
+    <a asp-action="Create">Crear Nueva</a>
+</p>
+
+<form asp-controller="Sales" asp-action="FindByDate" method="post">
+    <label for="fechaInicio" class="control-label">Fecha de inicio:</label>
+    <input type="date" id="fechaInicio" name="fechaInicio" class="form-control">
+
+    <label for="fechaFin" class="control-label">Fecha fin:</label>
+    <input type="date" id="fechaFin" name="fechaFin" class="form-control">
+
+    <button type="submit" class="btn btn-primary">Buscar</button>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cantity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TotalAmount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateSale)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cantity)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TotalAmount)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DateSale)
+                </td>
+@*                 <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td> *@
+            </tr>
+        }
+    </tbody>
+</table>

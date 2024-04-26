@@ -1,0 +1,333 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|c:\\users\\julian.sierra\\source\\repos\\webapppruebatecnica\\webapppruebatecnica\\seed\\userseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|solutionrelative:webapppruebatecnica\\seed\\userseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|c:\\users\\julian.sierra\\source\\repos\\webapppruebatecnica\\webapppruebatecnica\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|solutionrelative:webapppruebatecnica\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|c:\\users\\julian.sierra\\source\\repos\\webapppruebatecnica\\webapppruebatecnica\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|solutionrelative:webapppruebatecnica\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|c:\\users\\julian.sierra\\source\\repos\\webapppruebatecnica\\webapppruebatecnica\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|solutionrelative:webapppruebatecnica\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|c:\\users\\julian.sierra\\source\\repos\\webapppruebatecnica\\webapppruebatecnica\\views\\sales\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|solutionrelative:webapppruebatecnica\\views\\sales\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|c:\\users\\julian.sierra\\source\\repos\\webapppruebatecnica\\webapppruebatecnica\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|solutionrelative:webapppruebatecnica\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|c:\\users\\julian.sierra\\source\\repos\\webapppruebatecnica\\webapppruebatecnica\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|solutionrelative:webapppruebatecnica\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|c:\\users\\julian.sierra\\source\\repos\\webapppruebatecnica\\webapppruebatecnica\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|solutionrelative:webapppruebatecnica\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|c:\\users\\julian.sierra\\source\\repos\\webapppruebatecnica\\webapppruebatecnica\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|solutionrelative:webapppruebatecnica\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|c:\\users\\julian.sierra\\source\\repos\\webapppruebatecnica\\webapppruebatecnica\\models\\saleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|solutionrelative:webapppruebatecnica\\models\\saleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|c:\\users\\julian.sierra\\source\\repos\\webapppruebatecnica\\webapppruebatecnica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|solutionrelative:webapppruebatecnica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|c:\\users\\julian.sierra\\source\\repos\\webapppruebatecnica\\webapppruebatecnica\\views\\sales\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|solutionrelative:webapppruebatecnica\\views\\sales\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|c:\\users\\julian.sierra\\source\\repos\\webapppruebatecnica\\webapppruebatecnica\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|solutionrelative:webapppruebatecnica\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|c:\\users\\julian.sierra\\source\\repos\\webapppruebatecnica\\webapppruebatecnica\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|solutionrelative:webapppruebatecnica\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|c:\\users\\julian.sierra\\source\\repos\\webapppruebatecnica\\webapppruebatecnica\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|solutionrelative:webapppruebatecnica\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|c:\\users\\julian.sierra\\source\\repos\\webapppruebatecnica\\webapppruebatecnica\\entities\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|solutionrelative:webapppruebatecnica\\entities\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|c:\\users\\julian.sierra\\source\\repos\\webapppruebatecnica\\webapppruebatecnica\\views\\sales\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE0CD597-D813-4745-85D7-A5630D58D1AB}|WebAppPruebaTecnica\\WebAppPruebaTecnica.csproj|solutionrelative:webapppruebatecnica\\views\\sales\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserSeed.cs",
+              "DocumentMoniker": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Seed\\UserSeed.cs",
+              "RelativeDocumentMoniker": "WebAppPruebaTecnica\\Seed\\UserSeed.cs",
+              "ToolTip": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Seed\\UserSeed.cs",
+              "RelativeToolTip": "WebAppPruebaTecnica\\Seed\\UserSeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T04:29:48.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebAppPruebaTecnica\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "WebAppPruebaTecnica\\Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T04:16:38.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebAppPruebaTecnica\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebAppPruebaTecnica\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:55:10.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Views\\Sales\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebAppPruebaTecnica\\Views\\Sales\\Create.cshtml",
+              "ToolTip": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Views\\Sales\\Create.cshtml",
+              "RelativeToolTip": "WebAppPruebaTecnica\\Views\\Sales\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T03:44:45.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebAppPruebaTecnica\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "WebAppPruebaTecnica\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T03:44:43.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebAppPruebaTecnica\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebAppPruebaTecnica\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T03:13:12.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppPruebaTecnica\\Program.cs",
+              "ToolTip": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Program.cs",
+              "RelativeToolTip": "WebAppPruebaTecnica\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:00:48.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebAppPruebaTecnica\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebAppPruebaTecnica\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwEcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:00:28.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAppPruebaTecnica\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAppPruebaTecnica\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:00:26.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "WebAppPruebaTecnica\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "WebAppPruebaTecnica\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:00:23.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "WebAppPruebaTecnica\\Models\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "WebAppPruebaTecnica\\Models\\ProductViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T02:54:26.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Entities\\Sale.cs",
+              "RelativeDocumentMoniker": "WebAppPruebaTecnica\\Entities\\Sale.cs",
+              "ToolTip": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Entities\\Sale.cs",
+              "RelativeToolTip": "WebAppPruebaTecnica\\Entities\\Sale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T02:52:49.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SaleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Models\\SaleViewModel.cs",
+              "RelativeDocumentMoniker": "WebAppPruebaTecnica\\Models\\SaleViewModel.cs",
+              "ToolTip": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Models\\SaleViewModel.cs",
+              "RelativeToolTip": "WebAppPruebaTecnica\\Models\\SaleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T02:15:46.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "WebAppPruebaTecnica\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "WebAppPruebaTecnica\\Controllers\\SalesController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAQwGcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T01:46:21.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Views\\Sales\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppPruebaTecnica\\Views\\Sales\\Index.cshtml",
+              "ToolTip": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Views\\Sales\\Index.cshtml",
+              "RelativeToolTip": "WebAppPruebaTecnica\\Views\\Sales\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T02:10:51.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Views\\Sales\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebAppPruebaTecnica\\Views\\Sales\\Details.cshtml",
+              "ToolTip": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Views\\Sales\\Details.cshtml",
+              "RelativeToolTip": "WebAppPruebaTecnica\\Views\\Sales\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T02:09:39.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Views\\Sales\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebAppPruebaTecnica\\Views\\Sales\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\julian.sierra\\source\\repos\\WebAppPruebaTecnica\\WebAppPruebaTecnica\\Views\\Sales\\Delete.cshtml",
+              "RelativeToolTip": "WebAppPruebaTecnica\\Views\\Sales\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T02:08:15.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
